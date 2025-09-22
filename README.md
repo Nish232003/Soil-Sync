@@ -16,6 +16,7 @@ SOIL SYNC is an end-to-end IoT-ML pipeline designed to predict soil fertility wi
 ## 📸 Screenshots
 
 A quick look at the SOIL SYNC visualization dashboard.
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/10873ad0-c400-4aae-8b07-652a66a39a84" />
 
 
 *Soil Health Metrics Dashboard*
