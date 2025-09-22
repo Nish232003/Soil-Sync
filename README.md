@@ -1,15 +1,15 @@
 # SOIL SYNC: Predictive Soil Fertility Analysis 🌱
 
-SOIL SYNC is an end-to-end IoT-ML pipeline designed to predict soil fertility with 85% accuracy using real-time sensor data[cite: 16]. This project provides a modern, data-driven solution for farmers to understand and improve soil health without relying on slow, manual testing methods.
+SOIL SYNC is an end-to-end IoT-ML pipeline designed to predict soil fertility with 85% accuracy using real-time sensor data. This project provides a modern, data-driven solution for farmers to understand and improve soil health without relying on slow, manual testing methods.
 
 ***
 
 ## ✨ Key Features
 
-* **High-Accuracy Predictions**: Achieves 85% accuracy in predicting soil fertility levels, providing reliable insights for agricultural planning[cite: 16].
-* **Multiple Model Training**: Trained and evaluated multiple classification models, including Logistic Regression and Random Forest, to ensure the best performance[cite: 17].
-* **Real-Time Data Pipeline**: Engineered to process and analyze real-time sensor data, making it suitable for modern IoT-based farming[cite: 16].
-* **Visualization Dashboard**: Features a dashboard developed to display key soil health metrics visually, making complex data easy to understand[cite: 18].
+* **High-Accuracy Predictions**: Achieves 85% accuracy in predicting soil fertility levels, providing reliable insights for agricultural planning.
+* **Multiple Model Training**: Trained and evaluated multiple classification models, including Logistic Regression and Random Forest, to ensure the best performance.
+* **Real-Time Data Pipeline**: Engineered to process and analyze real-time sensor data, making it suitable for modern IoT-based farming.
+* **Visualization Dashboard**: Features a dashboard developed to display key soil health metrics visually, making complex data easy to understand.
 
 ***
 
@@ -25,9 +25,9 @@ A quick look at the SOIL SYNC visualization dashboard.
 
 ## 🛠️ Technology Stack
 
-* **Programming Languages**: Python [cite: 20]
-* **Libraries/Frameworks**: Pandas, Scikit-learn, Matplotlib [cite: 14]
-* **Tools & Platforms**: Git, Jupyter Notebook [cite: 21]
+* **Programming Languages**: Python 
+* **Libraries/Frameworks**: Pandas, Scikit-learn, Tableau
+* **Tools & Platforms**: Git, Jupyter Notebook 
 
 ***
 
@@ -67,7 +67,7 @@ You need to have Python and pip installed on your machine.
 
 ## 🧠 How It Works
 
-The core of SOIL SYNC is a machine learning pipeline that ingests and processes IoT sensor data. It utilizes various classification models, such as **Logistic Regression** and **Random Forest**, to classify the soil's fertility status based on key chemical and physical properties[cite: 17]. The results are then presented on a clear and intuitive dashboard.
+The core of SOIL SYNC is a machine learning pipeline that ingests and processes IoT sensor data. It utilizes various classification models, such as **Logistic Regression** and **Random Forest**, to classify the soil's fertility status based on key chemical and physical properties. The results are then presented on a clear and intuitive dashboard.
 
 ***
 
